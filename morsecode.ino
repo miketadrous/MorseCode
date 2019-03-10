@@ -1,6 +1,6 @@
 
 int led1 = D7;
-String NameToBlink="Zaki";
+String NameToBlink="Michael";
 
 void setup()
 {
